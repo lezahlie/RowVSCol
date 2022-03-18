@@ -1,0 +1,9 @@
+# ignore build
+.*/
+# ignore bin
+*
+#include git/misc config
+!.*
+# include program files
+!*.c
+!*.h
